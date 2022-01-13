@@ -4,7 +4,7 @@ void addno(){
 
     int number1, number2, sum;
     
-    printf("Enter two integers: ");
+    printf("Enter two numbres: ");
     scanf("%d %d", &number1, &number2 );
 
     // calculating sum
